@@ -1,0 +1,41 @@
+{
+    "users": [
+      {
+        "id": 1690966555357,
+        "name": "Ramu",
+        "email": "ramu@gmail.com",
+        "password": "ramu123",
+        "confirmpassword": "ramu123"
+      },
+      {
+        "id": 1693555661115,
+        "name": "",
+        "email": "",
+        "password": "",
+        "confirmpassword": ""
+      },
+      {
+        "id": 1693558094625,
+        "name": "nmm",
+        "email": "jsjjs@gmail.com",
+        "password": "Lordsiva@123445",
+        "confirmpassword": "Lordsiva@123445"
+      }
+    ],
+    "products": [
+      {
+        "id": 1690967438691,
+        "name": "face wash",
+        "mfgCompany": "mama earth",
+        "price": "200",
+        "quantity": "238"
+      },
+      {
+        "id": 1690967517320,
+        "name": "Soap",
+        "mfgCompany": "Lux",
+        "price": "60",
+        "quantity": "677"
+      }
+    ]
+  }

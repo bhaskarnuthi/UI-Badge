@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1694589066035,
+      "name": "Bhaskar",
+      "email": "b@gmail.com",
+      "password": "123",
+      "confirmpassword": "123"
+    },
+    {
+      "id": 1695711156421,
+      "name": "Karthik",
+      "email": "k@gmail.com",
+      "password": "1234",
+      "confirmpassword": "1234"
+    },
+    {
+      "id": 1695711633843,
+      "name": "",
+      "email": "",
+      "password": "",
+      "confirmpassword": ""
+    },
+    {
+      "id": 1695711635986,
+      "name": "",
+      "email": "",
+      "password": "",
+      "confirmpassword": ""
+    }
+  ],
+  "products": [
+    {
+      "id": 1694589211716,
+      "name": "Soap",
+      "mfgCompany": "Santoor",
+      "price": "23",
+      "quantity": "50"
+    },
+    {
+      "id": 1695276836416,
+      "name": "Suffron",
+      "mfgCompany": "MamaEarth",
+      "price": "47",
+      "quantity": "101"
+    },
+    {
+      "id": 1695630621304,
+      "name": "Watch",
+      "mfgCompany": "Fireboult",
+      "price": "1999",
+      "quantity": "120"
+    },
+    {
+      "id": 1695634018748,
+      "name": "Laptop",
+      "mfgCompany": "Lenovo",
+      "price": "89999",
+      "quantity": "77"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
